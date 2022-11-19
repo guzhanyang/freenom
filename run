@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 /**
- * 入口文件
+ * 入口文件ok
  *
  * 云函数版本维护：
  * 1、去掉顶部的 “#!/usr/bin/env php”，将文件名改为 index.php
